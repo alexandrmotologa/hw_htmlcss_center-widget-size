@@ -1,0 +1,13 @@
+
+body{
+    background-color: #333;
+    margin:0;
+}
+
+.widget{
+    width: 20vmin;
+    height: 20vmin;
+    margin: 40vh auto;
+
+    background-color: green;
+}
